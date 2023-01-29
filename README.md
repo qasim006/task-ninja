@@ -1,4 +1,4 @@
-# Todo List App
+# Todo Ninja
 
 This is a simple todo list app built with React JS, TypeScript and [React Beautiful DnD](https://react-beautiful-dnd.netlify.com/) library. It allows users to easily create and manage their todo lists with the added feature of drag and drop functionality.
 
@@ -21,6 +21,4 @@ This is a simple todo list app built with React JS, TypeScript and [React Beauti
 - [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript
 - [React Beautiful DnD](https://react-beautiful-dnd.netlify.com/) - A React library for creating beautiful, accessible drag-and-drop interfaces
 
-## Contributing
 
-If you're interested in contributing to this project, please read the [CONTRIBUTING.md](https://github.com/qasim006/task-ninja/blob/master/CONTRIBUTING.md) for details on how to submit pull requests.
