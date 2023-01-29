@@ -1,4 +1,4 @@
-# Todo Ninja
+# Task Ninja
 
 This is a simple todo list app built with React JS, TypeScript and [React Beautiful DnD](https://react-beautiful-dnd.netlify.com/) library. It allows users to easily create and manage their todo lists with the added feature of drag and drop functionality.
 
