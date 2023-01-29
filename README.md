@@ -10,7 +10,7 @@ This is a simple todo list app built with React JS, TypeScript and [React Beauti
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-list-app.git`
+1. Clone the repository: `git clone https://github.com/qasim006/task-ninja.git`
 2. Install the dependencies: `npm install` or `yarn install`
 3. Start the development server: `npm start` or `yarn start`
 4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
